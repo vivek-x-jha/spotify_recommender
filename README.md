@@ -1,0 +1,1 @@
+Creating v1.0.0 of a Spotify Recommender using Machine Learning. Credit goes to Sumeya Bedir - her step-by-step article can be found on Medium [here](https://medium.com/deep-learning-turkey/build-your-own-spotify-playlist-of-best-playlist-recommendations-fc9ebe92826a)
